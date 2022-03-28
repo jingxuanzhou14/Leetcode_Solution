@@ -1,2 +1,2 @@
 # Leetcode_Solution
-Leetcode solution for personal use 
+This folder includes solutions to the SQL questions on Leetcode. 
